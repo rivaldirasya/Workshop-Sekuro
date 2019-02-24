@@ -1,0 +1,2 @@
+print("Semangat!")
+print("Hello!!!")
