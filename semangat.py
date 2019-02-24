@@ -1,1 +1,2 @@
 print("Semangat!")
+print("Hello!!!")

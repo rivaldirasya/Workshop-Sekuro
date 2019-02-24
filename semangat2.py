@@ -1,2 +1,0 @@
-print("Semangat!")
-print("Hello!!!")
